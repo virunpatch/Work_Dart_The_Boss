@@ -98,7 +98,6 @@ class _MyHomePageState extends State<MyHomePage> {
                   child: Text(
                     '“Im undisputed.”',
                     style: TextStyle(
-                      
                       fontWeight: FontWeight.bold,
                     ),
                   ),
